@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="274df349-b5a3-4a32-a39e-6f6c37931079" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/list_benefits.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_benefit.php" beforeDir="false" afterPath="$PROJECT_DIR$/add_benefit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_user.php" beforeDir="false" afterPath="$PROJECT_DIR$/add_user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/snippets/custom/pages/user/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/snippets/custom/pages/user/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/profile_photo/63a26b513b55514ba3_profile-photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/profile_photo/63a26b513b55514ba3_profile-photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal.php" beforeDir="false" afterPath="$PROJECT_DIR$/modal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processing.php" beforeDir="false" afterPath="$PROJECT_DIR$/processing.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/request_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select_benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/select_benefits.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget.php" beforeDir="false" afterPath="$PROJECT_DIR$/widget.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1541897022">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="74140622">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="30" />
+          <entry key="js" value="50" />
+          <entry key="php" value="307" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="30" />
+          <entry key="JavaScript" value="50" />
+          <entry key="PHP" value="307" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="195" />
+          <entry key="html" value="436" />
+          <entry key="js" value="8953" />
+          <entry key="php" value="28772" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="196" />
+          <entry key="HTML" value="497" />
+          <entry key="JavaScript" value="8953" />
+          <entry key="PHP" value="28710" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="223" column="4" selection-start-line="223" selection-start-column="7" selection-end-line="238" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modal_photo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/request_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="48" column="85" selection-start-line="48" selection-start-column="85" selection-end-line="48" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/processing.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="245" column="56" lean-forward="true" selection-start-line="245" selection-start-column="56" selection-end-line="245" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/Connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="32" column="60" lean-forward="true" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>quick nav</find>
+      <find>dash</find>
+      <find>begin: left</find>
+      <find>alert</find>
+      <find>body</find>
+      <find>inner</find>
+      <find>table</find>
+      <find>var DatatablesBasicPaginations={init:function(){$(&quot;#m_table_1&quot;).DataTable({paging:!0,pagingType:&quot;full_numbers&quot;,createdRow:function(a,e,n){var t={1:{title:&quot;Pending&quot;,class:&quot;m-badge--brand&quot;},2:{title:&quot;Delivered&quot;,class:&quot; m-badge--metal&quot;},3:{title:&quot;Canceled&quot;,class:&quot; m-badge--primary&quot;},4:{title:&quot;Success&quot;,class:&quot; m-badge--success&quot;},5:{title:&quot;Info&quot;,class:&quot; m-badge--info&quot;},6:{title:&quot;Danger&quot;,class:&quot; m-badge--danger&quot;},7:{title:&quot;Warning&quot;,class:&quot; m-badge--warning&quot;}},s='&lt;span class=&quot;m-badge '+t[e[7]].class+' m-badge--wide&quot;&gt;'+t[e[7]].title+&quot;&lt;/span&gt;&quot;;a.getElementsByTagName(&quot;td&quot;)[7].innerHTML=s,s='&lt;span class=&quot;m-badge m-badge--'+(t={1:{title:&quot;Online&quot;,state:&quot;danger&quot;},2:{title:&quot;Retail&quot;,state:&quot;primary&quot;},3:{title:&quot;Direct&quot;,state:&quot;accent&quot;}})[e[8]].state+' m-badge--dot&quot;&gt;&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;m--font-bold m--font-'+t[e[8]].state+'&quot;&gt;'+t[e[8]].title+&quot;&lt;/span&gt;&quot;,a.getElementsByTagName(&quot;td&quot;)[8].innerHTML=s},columnDefs:[{targets:-1,data:&quot;name&quot;,title:&quot;Actions&quot;,orderable:!1,render:function(a,e,n,t){return'\n                        &lt;span class=&quot;dropdown&quot;&gt;\n                            &lt;a href=&quot;#&quot; class=&quot;btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill&quot; data-toggle=&quot;dropdown&quot; aria-expanded=&quot;true&quot;&gt;\n                              &lt;i class=&quot;la la-ellipsis-h&quot;&gt;&lt;/i&gt;\n                            &lt;/a&gt;\n                            &lt;div class=&quot;dropdown-menu dropdown-menu-right&quot;&gt;\n                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;la la-edit&quot;&gt;&lt;/i&gt; Edit Details&lt;/a&gt;\n                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;la la-leaf&quot;&gt;&lt;/i&gt; Update Status&lt;/a&gt;\n                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;la la-print&quot;&gt;&lt;/i&gt; Generate Report&lt;/a&gt;\n                            &lt;/div&gt;\n                        &lt;/span&gt;\n                        &lt;a href=&quot;#&quot; class=&quot;m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill&quot; title=&quot;View&quot;&gt;\n                          &lt;i class=&quot;la la-edit&quot;&gt;&lt;/i&gt;\n                        &lt;/a&gt;'}}]})}};jQuery(document).ready(function(){DatatablesBasicPaginations.init()});</find>
+      <find>m_table_1</find>
+      <find>generate re</find>
+      <find>var CalendarBasic={init:function(){var e=moment().startOf(&quot;day&quot;),t=e.format(&quot;YYYY-MM&quot;),i=e.clone().subtract(1,&quot;day&quot;).format(&quot;YYYY-MM-DD&quot;),n=e.format(&quot;YYYY-MM-DD&quot;),r=e.clone().add(1,&quot;day&quot;).format(&quot;YYYY-MM-DD&quot;);$(&quot;#m_calendar&quot;).fullCalendar({header:{left:&quot;prev,next today&quot;,center:&quot;title&quot;,right:&quot;month,agendaWeek,agendaDay,listWeek&quot;},editable:!0,eventLimit:!0,navLinks:!0,events:[{title:&quot;All Day Event&quot;,start:t+&quot;-01&quot;,description:&quot;Lorem ipsum dolor sit incid idunt ut&quot;,className:&quot;m-fc-event--danger m-fc-event--solid-warning&quot;},{title:&quot;Reporting&quot;,start:t+&quot;-14T13:30:00&quot;,description:&quot;Lorem ipsum dolor incid idunt ut labore&quot;,end:t+&quot;-14&quot;,className:&quot;m-fc-event--accent&quot;},{title:&quot;Company Trip&quot;,start:t+&quot;-02&quot;,description:&quot;Lorem ipsum dolor sit tempor incid&quot;,end:t+&quot;-03&quot;,className:&quot;m-fc-event--primary&quot;},{title:&quot;ICT Expo 2017 - Product Release&quot;,start:t+&quot;-03&quot;,description:&quot;Lorem ipsum dolor sit tempor inci&quot;,end:t+&quot;-05&quot;,className:&quot;m-fc-event--light m-fc-event--solid-primary&quot;},{title:&quot;Dinner&quot;,start:t+&quot;-12&quot;,description:&quot;Lorem ipsum dolor sit amet, conse ctetur&quot;,end:t+&quot;-10&quot;},{id:999,title:&quot;Repeating Event&quot;,start:t+&quot;-09T16:00:00&quot;,description:&quot;Lorem ipsum dolor sit ncididunt ut labore&quot;,className:&quot;m-fc-event--danger&quot;},{id:1e3,title:&quot;Repeating Event&quot;,description:&quot;Lorem ipsum dolor sit amet, labore&quot;,start:t+&quot;-16T16:00:00&quot;},{title:&quot;Conference&quot;,start:i,end:r,description:&quot;Lorem ipsum dolor eius mod tempor labore&quot;,className:&quot;m-fc-event--accent&quot;},{title:&quot;Meeting&quot;,start:n+&quot;T10:30:00&quot;,end:n+&quot;T12:30:00&quot;,description:&quot;Lorem ipsum dolor eiu idunt ut labore&quot;},{title:&quot;Lunch&quot;,start:n+&quot;T12:00:00&quot;,className:&quot;m-fc-event--info&quot;,description:&quot;Lorem ipsum dolor sit amet, ut labore&quot;},{title:&quot;Meeting&quot;,start:n+&quot;T14:30:00&quot;,className:&quot;m-fc-event--warning&quot;,description:&quot;Lorem ipsum conse ctetur adipi scing&quot;},{title:&quot;Happy Hour&quot;,start:n+&quot;T17:30:00&quot;,className:&quot;m-fc-event--metal&quot;,description:&quot;Lorem ipsum dolor sit amet, conse ctetur&quot;},{title:&quot;Dinner&quot;,start:n+&quot;T20:00:00&quot;,className:&quot;m-fc-event--solid-focus m-fc-event--light&quot;,description:&quot;Lorem ipsum dolor sit ctetur adipi scing&quot;},{title:&quot;Birthday Party&quot;,start:r+&quot;T07:00:00&quot;,className:&quot;m-fc-event--primary&quot;,description:&quot;Lorem ipsum dolor sit amet, scing&quot;},{title:&quot;Click for Google&quot;,url:&quot;http://google.com/&quot;,start:t+&quot;-28&quot;,className:&quot;m-fc-event--solid-info m-fc-event--light&quot;,description:&quot;Lorem ipsum dolor sit amet, labore&quot;}],eventRender:function(e,t){t.hasClass(&quot;fc-day-grid-event&quot;)?(t.data(&quot;content&quot;,e.description),t.data(&quot;placement&quot;,&quot;top&quot;),mApp.initPopover(t)):t.hasClass(&quot;fc-time-grid-event&quot;)?t.find(&quot;.fc-title&quot;).append('&lt;div class=&quot;fc-description&quot;&gt;'+e.description+&quot;&lt;/div&gt;&quot;):0!==t.find(&quot;.fc-list-item-title&quot;).lenght&amp;&amp;t.find(&quot;.fc-list-item-title&quot;).append('&lt;div class=&quot;fc-description&quot;&gt;'+e.description+&quot;&lt;/div&gt;&quot;)}})}};jQuery(document).ready(function(){CalendarBasic.init()});</find>
+      <find>Click for Google</find>
+      <find>dashboard.js</find>
+      <find>add_user</find>
+      <find>ajax-modal</find>
+      <find>Mail</find>
+      <find>err</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/login.php" />
+        <option value="$PROJECT_DIR$/style/main.css" />
+        <option value="$PROJECT_DIR$/../ticketing_sys/index.php" />
+        <option value="$USER_HOME$/Downloads/themeforest-4021469-metronic-responsive-admin-dashboard-template/metronic_v5.5.5/theme/classic/demos/default/crud/metronic-datatable/child/data-local.html" />
+        <option value="$PROJECT_DIR$/assets/demo/demo11/custom/crud/metronic-datatable/locked/html-table.js" />
+        <option value="$PROJECT_DIR$/assets/vendors/custom/datatables/datatables.bundle.js" />
+        <option value="$PROJECT_DIR$/assets/demo/demo11/custom/crud/datatables/basic/paginations.js" />
+        <option value="$USER_HOME$/Downloads/themeforest-4021469-metronic-responsive-admin-dashboard-template/metronic_v5.5.5/theme/classic/demos/default/crud/datatables/data-sources/html.html" />
+        <option value="$PROJECT_DIR$/asd.php" />
+        <option value="$PROJECT_DIR$/theme/classic/demos/default/assets/demo/custom/crud/datatables/data-sources/html.js" />
+        <option value="$PROJECT_DIR$/theme/profile.php" />
+        <option value="$PROJECT_DIR$/theme/classic/demos/demo11/index.html" />
+        <option value="$PROJECT_DIR$/moment/moment.js" />
+        <option value="$PROJECT_DIR$/assets/app/js/dashboard.js" />
+        <option value="$PROJECT_DIR$/error.php" />
+        <option value="$PROJECT_DIR$/widget_stats.php" />
+        <option value="$PROJECT_DIR$/assets/demo/demo11/custom/components/calendar/basic.js" />
+        <option value="$PROJECT_DIR$/head.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/request_list.php" />
+        <option value="$PROJECT_DIR$/modal_photo.php" />
+        <option value="$USER_HOME$/Downloads/bookshelf/bookshelf/pages/add.php" />
+        <option value="$PROJECT_DIR$/request_form.php" />
+        <option value="$PROJECT_DIR$/modal.php" />
+        <option value="$PROJECT_DIR$/assets/snippets/custom/pages/user/login.js" />
+        <option value="$PROJECT_DIR$/functions/functions.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/add_benefit.php" />
+        <option value="$PROJECT_DIR$/widget.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/list_benefits.php" />
+        <option value="$PROJECT_DIR$/classes/DatabaseConfig.php" />
+        <option value="$PROJECT_DIR$/select_benefits.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/classes/Connection.php" />
+        <option value="$PROJECT_DIR$/sidebar.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/add_user.php" />
+        <option value="$PROJECT_DIR$/calendar.php" />
+        <option value="$PROJECT_DIR$/users_list.php" />
+        <option value="$PROJECT_DIR$/profile.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/processing.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/theme/classic/vendors/handlebars/node_modules" />
+    <handled-path value="$PROJECT_DIR$/theme/classic/vendors/markdown/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/theme/angular/dist/demo/default-skeleton/package.json" />
+      <path value="$PROJECT_DIR$/theme/angular/dist/demo/default/package.json" />
+      <path value="$PROJECT_DIR$/theme/angular/dist/demo/demo2/package.json" />
+      <path value="$PROJECT_DIR$/theme/angular/tools/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/autosize/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/block-ui/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-datetime-picker/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-markdown/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-maxlength/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-notify/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-select/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-switch/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-timepicker/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap-touchspin/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/chartist/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/clipboard/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/counterup/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/dropzone/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/es6-promise-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/inputmask/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/ion-rangeslider/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/jquery-form/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/jquery-validation/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/jquery.repeater/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/jquery/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/js-cookie/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/jstree/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/markdown/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/moment/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/nouislider/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/owl.carousel/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/perfect-scrollbar/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/popper.js/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/raphael/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/select2/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/socicon/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/summernote/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/sweetalert2/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/tether/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/toastr/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/tooltip.js/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/typeahead.js/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/waypoints/package.json" />
+      <path value="$PROJECT_DIR$/theme/classic/vendors/wnumb/package.json" />
+      <path value="$PROJECT_DIR$/theme/default/src/vendors/bootstrap-session-timeout/package.json" />
+      <path value="$PROJECT_DIR$/theme/default/tools/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2117" />
+    <option name="y" value="-11" />
+    <option name="width" value="1920" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="softlead_app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="logo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="softlead_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softlead_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softlead_app" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softlead_app" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softlead_app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softlead_app" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="softlead_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softlead_app" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ticketing_sys" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\softlead_app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="274df349-b5a3-4a32-a39e-6f6c37931079" name="Default Changelist" comment="" />
+      <created>1537175937445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537175937445</updated>
+      <workItem from="1537175938809" duration="1051000" />
+      <workItem from="1537177091492" duration="296000" />
+      <workItem from="1537177635755" duration="9916000" />
+      <workItem from="1537190507759" duration="4311000" />
+      <workItem from="1537252435660" duration="6880000" />
+      <workItem from="1537259400536" duration="16059000" />
+      <workItem from="1537341689097" duration="21331000" />
+      <workItem from="1537427392920" duration="8449000" />
+      <workItem from="1537436729254" duration="11950000" />
+      <workItem from="1537474255827" duration="352000" />
+      <workItem from="1537768905352" duration="1432000" />
+      <workItem from="1537771408591" duration="7761000" />
+      <workItem from="1537779307792" duration="5922000" />
+      <workItem from="1537789337590" duration="4802000" />
+      <workItem from="1537794251725" duration="4375000" />
+      <workItem from="1537856020155" duration="25012000" />
+      <workItem from="1537947142591" duration="124239000" />
+      <workItem from="1539065202231" duration="28977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="283115000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29957357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/asd.php" />
+    <entry file="file://$PROJECT_DIR$/theme/classic/demos/default/assets/vendors/custom/datatables/datatables.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="15571" column="107528" selection-start-line="15571" selection-start-column="107528" selection-end-line="15571" selection-end-column="107528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ticketing_sys/jquery/change.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ticketing_sys/pages/edit_book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="323" column="38" lean-forward="true" selection-start-line="323" selection-start-column="38" selection-end-line="323" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/classic/demos/default/assets/demo/custom/crud/datatables/data-sources/html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="78" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/themeforest-4021469-metronic-responsive-admin-dashboard-template/metronic_v5.5.5/theme/default/dist/default/components/calendar/background-events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="1884" column="60" lean-forward="true" selection-start-line="1884" selection-start-column="60" selection-end-line="1884" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/classic/demos/demo11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/default/dist/default/components/calendar/google.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/classic/demos/default/assets/vendors/custom/datatables/datatables.bundle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/default/dist/default/components/calendar/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20111">
+          <caret line="1834" column="85" lean-forward="true" selection-start-line="1834" selection-start-column="85" selection-end-line="1834" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moment/moment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="4505" column="5" selection-start-line="4505" selection-start-column="5" selection-end-line="4505" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/default/dist/demo6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="4119" column="35" selection-start-line="4119" selection-start-column="35" selection-end-line="4119" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="849" selection-start-line="849" selection-end-line="967" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error-6.html" />
+    <entry file="file://$PROJECT_DIR$/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/default/dist/default/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="61" column="8" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/classic/demos/default/assets/vendors/custom/fullcalendar/fullcalendar.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/demo/demo11/custom/components/calendar/basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#376#382#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="true" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/default/dist/default/header/profile.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ticketing_sys/pages/files.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ticketing_sys/classes/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581">
+          <caret line="111" column="9" lean-forward="true" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/bookshelf/bookshelf/pages/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/default/dist/default/snippets/pages/user/login-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="158" column="8" lean-forward="true" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ticketing_sys/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="112" lean-forward="true" selection-start-line="6" selection-start-column="112" selection-end-line="7" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHPMailer/src/PHPMailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27021">
+          <caret line="1718" column="37" lean-forward="true" selection-start-line="1718" selection-start-column="37" selection-end-line="1718" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="4238" column="26" lean-forward="true" selection-start-line="4238" selection-start-column="26" selection-end-line="4238" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="160" column="18" selection-start-line="160" selection-start-column="18" selection-end-line="160" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/snippets/custom/pages/user/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_benefit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="70" selection-start-line="72" selection-start-column="70" selection-end-line="72" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="143" column="1" lean-forward="true" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_benefits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/DatabaseConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="115" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/select_benefits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="132" selection-start-line="36" selection-start-column="132" selection-end-line="36" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="123" column="14" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="123" selection-end-column="14" />
+          <folding>
+            <element signature="e#6#24#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="89" selection-start-line="2" selection-start-column="89" selection-end-line="2" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="223" column="4" selection-start-line="223" selection-start-column="7" selection-end-line="238" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="110" selection-start-line="106" selection-start-column="110" selection-end-line="106" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="60" lean-forward="true" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="48" column="85" selection-start-line="48" selection-start-column="85" selection-end-line="48" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="245" column="56" lean-forward="true" selection-start-line="245" selection-start-column="56" selection-end-line="245" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
